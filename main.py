@@ -86,7 +86,7 @@ plt.title('PCA')
 plt.savefig('plots/pca.png')
 
 £kjhjjhjh
-
+fhbhb
 
 # PCA using only the coordinates
 pca = PCA(n_components=4)
